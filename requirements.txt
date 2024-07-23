@@ -1,0 +1,6 @@
+yt-dlp
+mutagen
+requests
+customtkinter
+pyfiglet
+ffmpeg-python
