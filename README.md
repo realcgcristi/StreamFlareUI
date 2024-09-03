@@ -1,6 +1,6 @@
 # StreamFlareUI
 ## StreamFlare, but with an UI.
-### Visit https://github.com/CristiGitHubber/StreamFlare for the terminal interface
+### Visit https://github.com/realcgcristi/StreamFlare for the terminal interface
 
 use  `pip install -r requirements.txt`, and after that run the UI with `python StreamFlareUI.py` (or `py StreamFlareUI.py`)
 
